@@ -1,0 +1,14 @@
+body{
+    margin: 0 auto;
+}
+p{
+    margin-left: 500px;
+}
+#main{
+    margin-left: 500px;
+    padding: auto;
+}
+#box{
+    margin: 0 auto;
+    padding: auto;
+}
